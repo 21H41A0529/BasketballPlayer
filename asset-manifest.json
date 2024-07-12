@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BasketballPlayer/static/css/main.6f5b1986.css",
+    "main.js": "/BasketballPlayer/static/js/main.34a87abc.js",
+    "static/js/453.64512fd7.chunk.js": "/BasketballPlayer/static/js/453.64512fd7.chunk.js",
+    "index.html": "/BasketballPlayer/index.html",
+    "main.6f5b1986.css.map": "/BasketballPlayer/static/css/main.6f5b1986.css.map",
+    "main.34a87abc.js.map": "/BasketballPlayer/static/js/main.34a87abc.js.map",
+    "453.64512fd7.chunk.js.map": "/BasketballPlayer/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5b1986.css",
+    "static/js/main.34a87abc.js"
+  ]
+}
